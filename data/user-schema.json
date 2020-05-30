@@ -1,0 +1,21 @@
+{
+    "title": "A user Entry",
+    "description": "Definition of a valid user entry",
+    "type": "object",
+    "properties": {
+        "id": {
+            "type": "number"
+        },
+        "username": {
+            "type": "string"
+        },
+        "password": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "id",
+        "username",
+        "password"
+    ]
+}

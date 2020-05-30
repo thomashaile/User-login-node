@@ -1,0 +1,15 @@
+{
+  "nextId": 7,
+  "users": [
+    {
+      "username": "amen",
+      "password": "amen123",
+      "id": 4
+    },
+    {
+      "username": "thomas",
+      "password": "thomas123",
+      "id": 5
+    }
+  ]
+}
